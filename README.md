@@ -1,6 +1,18 @@
-### Hi there 👋
+### Hi there, I am Vinod ! 👋
 
-[![Vinod's github stats](https://github-readme-stats.vercel.app/api?username=vinodjayachandran)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 You can reach me on
+    
+    - [LinkedIdIn](https://www.linkedin.com/in/vinodjayachandran/)
+
+    - [Twitter](https://twitter.com/vinthri)
+    
+- :black_nib:  I write on
+
+   - [GISTS](https://gist.github.com/vinodjayachandran)
+   
+   - [Blog](https://crypticarticles.wordpress.com/)
+
+
 
 <!--
 **vinodjayachandran/vinodjayachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
