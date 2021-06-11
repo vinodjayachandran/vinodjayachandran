@@ -10,7 +10,7 @@
 
    - [GISTS](https://gist.github.com/vinodjayachandran)
    
-   - [Blog](https://crypticarticles.wordpress.com/)
+   - [Blog](https://doniv.substack.com/)
 
 
 
