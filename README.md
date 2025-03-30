@@ -1,16 +1,22 @@
 ### Hi there, I am Vinod ! 👋
 
-- 📫 You can reach me on
-    
-    - [LinkedIdIn](https://www.linkedin.com/in/vinodjayachandran/)
+ [![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3] [![alt text][4.1]][4]
 
-    - [Twitter](https://twitter.com/vinthri)
-    
-- :black_nib:  I write on
+ ![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinodjayachandran\&rank_icon=github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodjayachandran)](https://github.com/vinodjayachandran/github-readme-stats) 
 
-   - [GISTS](https://gist.github.com/vinodjayachandran)
-   
-   - [Blog](https://doniv.substack.com/)
+ 
+    
+ 
+ [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+ [2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ [3.1]: https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719
+ [4.1]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+
+[1]: https://twitter.com/vinthri
+[2]: https://www.linkedin.com/in/vinodjayachandran/
+[3]: https://doniv.substack.com/s/tech
+[4]: https://gist.github.com/vinodjayachandran
+    
 
 
 
@@ -27,4 +33,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 You can reach me on
+- :black_nib:
+- Refer GitHub Stats - https://github.com/anuraghazra/github-readme-stats 
+
 -->
