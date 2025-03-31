@@ -3,6 +3,8 @@
  [![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3] [![alt text][4.1]][4]
 
  --> 
+ - 💬 Ask me about ... Back end development that includes REST APIs, ETL jobs, database and AI
+ - 📫 How to reach me: Book an [appointment](https://calendar.app.google/ebwyH7yadzWLAHzG8)
 
  ![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinodjayachandran\&rank_icon=github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodjayachandran)](https://github.com/vinodjayachandran/github-readme-stats) 
 
